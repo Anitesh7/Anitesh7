@@ -5,9 +5,9 @@
 
 </h3>
 
-- 🌱 I’m currently learning **<em>Backend Development</em>**
+- 🚪 I’m currently learning **<em>Backend Development</em>**
 
-- 🌱 I’m interested in **<em>Coding</em>**
+- 💻 I’m interested in **<em>Coding</em>**
 
 - 💬 Ask me about **<em>Anything</em>**
 
