@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Anitesh7
-- 👀 I’m interested in Coding, Web Development.
-- 🌱 I’m currently learning Backend.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m ➼ Anitesh Barman
+- 👀 I’m interested in ➼ Coding, Web Development.
+- ✒️ I’m currently learning ➼ Backend.
+- 😎 Pronouns ➼ He/Him
+- 💬 Ask me about ➼ Anything
+- 📫 How to reach me ➼ [Linkedin](https://linkedin.com/in/anitesh7)
 
 <!---
 Anitesh7/Anitesh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
