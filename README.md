@@ -5,7 +5,7 @@
 
 </h3>
 
-- 🚪 I’m currently learning **<em>Backend Development</em>**
+<!-- - 🚪 I’m currently learning **<em>Backend Development</em>** -->
 
 - 💻 I’m interested in **<em>Coding</em>**
 
