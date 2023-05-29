@@ -9,7 +9,7 @@
 
 - 💻 I’m interested in **<em>Coding</em>**
 
-- 💬 Ask me about **<em>Anything</em>**
+- 💬 Ask me about **<em>Computer</em>**
 
 - 😎 Pronouns **<em>He/Him</em>**
 
