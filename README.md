@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I am Anitesh Barman</h1>
+<h1 align="center">Hi, I am Anitesh Barman</h1>
 <h3 align="center">
 
-  Learner  |  Developer  |  Programmer 
+  Learner  |  Developer  |  Programmer | AI Enthusiast
 
 </h3>
 
